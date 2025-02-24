@@ -1,0 +1,168 @@
+﻿Student ID (Assign 1-n? On this page; this id will follow them through the rest of the data),age,gender,race_ethnicity,course_completion,employment_status,individual_income,household_income,work_experience
+ENR-7245,30,Male,Black or African American,0.67,I have a part-time job,24500.00,24500.00,4-5 years
+ENR-7246,19,Male,Asian,0.69,I am unemployed,0.00,15000.00,Less than 1 year
+ENR-7247,29,Female,Hispanic or Latino/Latina/Latinx,0.69,I have a part-time job,40000.00,40000.00,4-5 years
+ENR-7248,28,Male,Asian,0.67,I am unemployed,0.00,20000.00,4-5 years
+ENR-7251,23,Female,Black or African American,0.68,I have a part-time job,22000.00,50000.00,4-5 years
+ENR-7252,44,Female,White,0.71,I am unemployed,0.00,100000.00,Over 10 years
+ENR-7253,19,Male,Asian,0.71,I am unemployed,0.00,59000.00,1-3 years
+ENR-7257,19,Female,Hispanic or Latino/Latina/Latinx,0.68,I have a part-time job,15000.00,65000.00,1-3 years
+ENR-7260,22,Male,Asian,0.68,I have a part-time job,10000.00,10000.00,1-3 years
+ENR-7262,23,Female,Hispanic or Latino/Latina/Latinx,0.71,I am unemployed,0.00,45000.00,1-3 years
+ENR-7263,26,Male,Asian,0.69,I am unemployed,0.00,6000.00,1-3 years
+ENR-7265,45,Female,Hispanic or Latino/Latina/Latinx,0.72,I am unemployed,0.00,20000.00,Over 10 years
+ENR-7267,30,Male,Hispanic or Latino/Latina/Latinx,0.73,I have a full-time job,45000.00,45000.00,Over 10 years
+ENR-7270,29,Male,Asian,0.71,I have a full-time job,50000.00,50000.00,Over 10 years
+ENR-7271,40,Male,Hispanic or Latino/Latina/Latinx,0.70,I am unemployed,0.00,30000.00,Over 10 years
+ENR-7272,45,Male,Indigenous American or Alaska Native,0.70,I have a full-time job,80000.00,160000.00,Over 10 years
+ENR-7276,24,Male,Black or African American,0.73,I am unemployed,0.00,0.00,1-3 years
+ENR-7296,39,Female,Asian,0.69,I have a full-time job,70000.00,70000.00,1-3 years
+ENR-7297,23,Female,White,0.71,I have a part-time job,20000.00,20000.00,4-5 years
+ENR-7298,29,Male,White,0.71,I have a part-time job,40000.00,45000.00,Over 10 years
+ENR-7299,28,Male,Black or African American,0.72,I have a full-time job,30000.00,30000.00,4-5 years
+ENR-7300,28,Female,Black or African American,0.72,I have a full-time job,27000.00,27000.00,Over 10 years
+ENR-7301,27,Male,I prefer not to answer,0.72,I have a part-time job,25000.00,40000.00,Over 10 years
+ENR-7302,48,Female,Hispanic or Latino/Latina/Latinx,0.72,I have a full-time job,42168.00,42168.00,Over 10 years
+ENR-7303,33,Male,I prefer not to answer,0.73,I am unemployed,0.00,50000.00,Over 10 years
+ENR-7304,32,Female,Black or African American,0.72,I have a part-time job,10000.00,70000.00,Over 10 years
+ENR-7305,19,Male,Asian,0.73,I am unemployed,0.00,50000.00,1-3 years
+ENR-7306,35,Male,Black or African American,0.72,I am unemployed,0.00,0.00,Over 10 years
+ENR-7308,24,Male,Indigenous American or Alaska Native,0.73,I am unemployed,0.00,10000.00,1-3 years
+ENR-7310,26,Male,Hispanic or Latino/Latina/Latinx,0.73,I am unemployed,0.00,25000.00,5-9 years
+ENR-7314,26,Non-binary,I prefer not to answer,0.73,I have a full-time job,45000.00,90000.00,5-9 years
+ENR-7315,33,Male,White,0.73,I have a full-time job,40000.00,40000.00,Over 10 years
+ENR-8082,29,Male,White,0.73,I have a part-time job,44000.00,110000.00,Over 10 years
+ENR-8083,22,Male,Black or African American,0.73,I have a full-time job,49000.00,49000.00,5-9 years
+ENR-8084,36,Female,Hispanic or Latino/Latina/Latinx,0.73,I have a full-time job,52300.00,52300.00,5-9 years
+ENR-8087,32,I prefer not to answer,Asian,0.73,I am unemployed,0.00,25000.00,5-9 years
+ENR-8088,36,Male,Hispanic or Latino/Latina/Latinx,0.73,I am unemployed,0.00,0.00,Over 10 years
+ENR-8091,34,Female,White,0.73,I am unemployed,0.00,110000.00,5-9 years
+ENR-8092,28,Male,White,0.74,I am unemployed,0.00,36480.00,5-9 years
+ENR-8094,23,Female,Hispanic or Latino/Latina/Latinx,0.74,I am unemployed,0.00,50000.00,Less than 1 year
+ENR-8095,57,Female,Asian,0.74,I am unemployed,0.00,135000.00,Over 10 years
+ENR-8098,24,Male,Asian,0.74,I have a part-time job,75000.00,130000.00,5-9 years
+ENR-8201,41,Male,Black or African American,0.74,I have a full-time job,51000.00,51000.00,Over 10 years
+ENR-8202,24,Female,White,0.73,I have a full-time job,0.00,30000.00,1-3 years
+ENR-8187,24,Male,Asian,0.74,I am unemployed,0.00,0.00,Less than 1 year
+ENR-8188,22,Male,Asian,0.74,I am unemployed,0.00,0.00,1-3 years
+ENR-8190,25,Female,Hispanic or Latino/Latina/Latinx,0.75,I am unemployed,0.00,24000.00,1-3 years
+ENR-8191,32,Female,Hispanic or Latino/Latina/Latinx,0.75,I am unemployed,0.00,30000.00,Over 10 years
+ENR-8193,35,Male,Black or African American,0.75,I have a full-time job,90000.00,130000.00,Over 10 years
+ENR-8197,23,Male,Hispanic or Latino/Latina/Latinx,0.75,I have a part-time job,25000.00,60000.00,1-3 years
+ENR-8198,36,Female,White,0.75,I have a part-time job,40000.00,98000.00,Over 10 years
+ENR-8403,27,Male,Black or African American,0.73,I have a full-time job,36000.00,36000.00,5-9 years
+ENR-8404,21,Male,Hispanic or Latino/Latina/Latinx,0.75,I have a part-time job,40000.00,90000.00,4-5 years
+ENR-8405,26,Female,Hispanic or Latino/Latina/Latinx,0.75,I have a full-time job,58000.00,58000.00,1-3 years
+ENR-8406,40,Male,White,0.75,I have a full-time job,120000.00,120000.00,Over 10 years
+ENR-8408,30,Female,Black or African American,0.75,I am unemployed,0.00,35000.00,4-5 years
+ENR-8410,37,Male,Black or African American,0.75,I am unemployed,0.00,36000.00,Over 10 years
+ENR-8412,26,Female,Asian,0.74,I am unemployed,0.00,120000.00,1-3 years
+ENR-8413,25,Female,Middle Eastern,0.76,I have a full-time job,55000.00,55000.00,4-5 years
+ENR-8377,22,Male,Black or African American,0.76,I have a part-time job,10000.00,10000.00,1-3 years
+ENR-8414,25,Male,Hispanic or Latino/Latina/Latinx,0.76,I have a full-time job,20000.00,45000.00,5-9 years
+ENR-8415,43,Female,Black or African American,0.75,I am unemployed,0.00,650.00,4-5 years
+ENR-8505,48,Female,White,0.75,I have a part-time job,20650.00,44756.00,Over 10 years
+ENR-8506,49,Male,White,0.75,I have a full-time job,24000.00,44000.00,Over 10 years
+ENR-8507,38,Female,Black or African American,0.75,I am unemployed,0.00,100000.00,Over 10 years
+ENR-8508,25,Male,Black or African American,0.75,I have a full-time job,30000.00,60000.00,1-3 years
+ENR-8509,27,Female,Black or African American,0.76,I am unemployed,0.00,90000.00,1-3 years
+ENR-8511,51,Male,Hispanic or Latino/Latina/Latinx,0.76,I am unemployed,0.00,30000.00,5-9 years
+ENR-8512,35,Male,Black or African American,0.77,I am unemployed,0.00,9500.00,Less than 1 year
+ENR-8513,31,Male,Black or African American,0.77,I am unemployed,0.00,120000.00,5-9 years
+ENR-8514,32,Female,Black or African American,0.77,I have a part-time job,23000.00,23000.00,Over 10 years
+ENR-8516,28,Male,Black or African American,0.77,I have a full-time job,40000.00,40000.00,4-5 years
+ENR-8517,20,Male,Black or African American,0.77,I am unemployed,0.00,60000.00,1-3 years
+ENR-8518,30,Male,Black or African American,0.77,I have a full-time job,45000.00,45000.00,4-5 years
+ENR-8519,27,Male,Hispanic or Latino/Latina/Latinx,0.77,I am unemployed,0.00,0.00,Over 10 years
+ENR-8520,31,Female,Black or African American,0.77,I have a part-time job,9600.00,20400.00,Over 10 years
+ENR-8522,24,Male,White,0.78,I am unemployed,0.00,0.00,5-9 years
+ENR-8523,23,Male,Black or African American,0.78,I have a part-time job,38000.00,38000.00,Less than 1 year
+ENR-8524,64,Male,Asian,0.78,I am unemployed,0.00,70000.00,Over 10 years
+ENR-8525,27,Male,Asian,0.78,I am unemployed,0.00,40000.00,5-9 years
+ENR-8573,44,Female,Asian,0.77,I am unemployed,0.00,15000.00,Over 10 years
+ENR-8574,29,Female,Black or African American,0.78,I am unemployed,0.00,14000.00,1-3 years
+ENR-8576,36,Female,White,0.00,I am unemployed,0.00,0.00,1-3 years
+ENR-8577,26,Male,Hispanic or Latino/Latina/Latinx,0.76,I am unemployed,0.00,100000.00,1-3 years
+ENR-8580,32,Male,Black or African American,0.77,I am unemployed,0.00,35000.00,5-9 years
+ENR-8582,35,Female,Black or African American,0.77,I am unemployed,0.00,12000.00,Over 10 years
+ENR-8583,37,Female,Asian,0.77,I am unemployed,0.00,75000.00,5-9 years
+ENR-8584,45,Male,Black or African American,0.77,I have a full-time job,40000.00,40000.00,Over 10 years
+ENR-8704,31,Male,Hispanic or Latino/Latina/Latinx,0.77,I have a full-time job,27000.00,57000.00,5-9 years
+ENR-8705,25,Female,Asian,0.77,I am unemployed, ,85000.00,1-3 years
+ENR-8720,37,Female,Black or African American,0.77,I am unemployed, ,36000.00,Over 10 years
+ENR-8721,45,Male,Black or African American,0.77,I have a part-time job,32000.00,82000.00,Over 10 years
+ENR-8722,25,Non-binary,Black or African American,0.77,I am unemployed, ,125000.00,1-3 years
+ENR-8725,33,Female,Black or African American,0.77,I am unemployed, ,13000.00,Over 10 years
+ENR-8726,41,Female,Asian,0.77,I have a part-time job,50000.00,50000.00,Over 10 years
+ENR-8862,30,Male,Black or African American,0.75,I have a part-time job,25000.00,25000.00,5-9 years
+ENR-8863,24,Female,Black or African American,0.77,I have a part-time job,7500.00,7500.00,1-3 years
+ENR-8864,32,Female,White,0.77,I have a part-time job,8640.00,26640.00,5-9 years
+ENR-8818,44,Female,Hispanic or Latino/Latina/Latinx,0.76,I have a part-time job,12000.00,12000.00,Over 10 years
+ENR-8819,28,Female,Asian,0.76,I have a part-time job,24000.00,48000.00,4-5 years
+ENR-8821,39,Male,Hispanic or Latino/Latina/Latinx,0.77,I am unemployed,0.00,0.00,Over 10 years
+ENR-8822,31,Male,White,0.78,I have a part-time job,33000.00,33000.00,5-9 years
+ENR-8823,18,Female,Black or African American,0.78,I have a part-time job,0.00,100000.00,4-5 years
+ENR-8825,38,Female,Black or African American,0.77,I am unemployed,0.00,0.00,Over 10 years
+ENR-8826,37,Female,Black or African American,0.77,I have a part-time job,30000.00,70000.00,Over 10 years
+ENR-8828,39,Male,Middle Eastern,0.77,I have a part-time job,25000.00,75000.00,Over 10 years
+ENR-8829,26,Female,Asian,0.78,I have a part-time job,5000.00,95000.00,5-9 years
+ENR-8830,29,Male,Hispanic or Latino/Latina/Latinx,0.78,I have a full-time job,35000.00,60000.00,Over 10 years
+ENR-8831,27,Female,Hispanic or Latino/Latina/Latinx,0.78,I have a full-time job,27500.00,47500.00,5-9 years
+ENR-8832,35,Female,Black or African American,0.79,I am unemployed,0.00,70000.00,Over 10 years
+ENR-8833,30,Male,Black or African American,0.79,I am unemployed,0.00,0.00,1-3 years
+ENR-8838,26,Male,Middle Eastern,0.79,I am unemployed,0.00,0.00,1-3 years
+ENR-8839,36,Female,Black or African American,0.80,I am unemployed,0.00,43000.00,Over 10 years
+ENR-8840,33,Male,White,0.80,I have a full-time job,45634.00,45634.00,5-9 years
+ENR-8841,29,Female,Black or African American,0.80,I have a part-time job,16000.00,44000.00,Over 10 years
+ENR-8842,36,Male,White,0.80,I am unemployed,0.00,60000.00,Over 10 years
+ENR-8844,39,Male,Hispanic or Latino/Latina/Latinx,0.81,I have a part-time job,30000.00,30000.00,Over 10 years
+ENR-8846,33,Female,Black or African American,0.80,I am unemployed,0.00,0.00,5-9 years
+ENR-8848,24,Male,White,0.80,I have a full-time job,26000.00,26000.00,5-9 years
+ENR-8849,50,Male,Black or African American,0.80,I have a full-time job,1000.00,1000.00,Over 10 years
+ENR-8851,47,Male,White,0.81,I am unemployed,0.00,30000.00,Over 10 years
+ENR-8853,43,Male,White,0.80,I have a full-time job,42000.00,42000.00,Over 10 years
+ENR-8854,33,Male,I prefer not to answer,0.81,I have a part-time job,24000.00,24000.00,Over 10 years
+ENR-8855,24,Male,Black or African American,0.81,I have a full-time job,27000.00,32000.00,4-5 years
+ENR-8856,21,Male,Black or African American,0.81,I am unemployed,0.00,45000.00,4-5 years
+ENR-8857,30,Male,Black or African American,0.81,I have a part-time job,9000.00,9000.00,4-5 years
+ENR-8858,36,Female,Black or African American,0.82,I have a part-time job,35000.00,35000.00,1-3 years
+ENR-8860,23,Male,Hispanic or Latino/Latina/Latinx,0.82,I have a full-time job,35000.00,210000.00,5-9 years
+ENR-8882,31,Male,White,0.80,I have a full-time job,42000.00,42000.00,5-9 years
+ENR-8884,36,Male,White,0.81,I am unemployed,0.00,30000.00,5-9 years
+ENR-8886,19,Male,Black or African American,0.81,I have a part-time job,5000.00,0.00,1-3 years
+ENR-8887,44,Female,Black or African American,0.81,I have a full-time job,56000.00,56000.00,Over 10 years
+ENR-8891,30,Female,Black or African American,0.81,I have a full-time job,60000.00,60000.00,5-9 years
+ENR-8892,27,Male,Middle Eastern,0.81,I have a full-time job,51000.00,51000.00,Less than 1 year
+ENR-8893,37,Female,I prefer not to answer,0.81,I have a full-time job,30000.00,30000.00,Over 10 years
+ENR-8895,22,Female,Hispanic or Latino/Latina/Latinx,0.81,I am unemployed,0.00,0.00,Less than 1 year
+ENR-8922,35,Male,Black or African American,0.81,I have a part-time job,14000.00,26000.00,5-9 years
+ENR-8923,22,Male,Hispanic or Latino/Latina/Latinx,0.81,I have a part-time job,12000.00,90000.00,1-3 years
+ENR-8909,31,Male,Black or African American,0.81,I am unemployed,0.00,17000.00,Over 10 years
+ENR-8911,35,Female,Black or African American,0.81,I am unemployed,0.00,0.00,Over 10 years
+ENR-8914,30,Male,White,0.81,I have a full-time job,45760.00,45760.00,5-9 years
+ENR-8915,24,Male,Black or African American,0.81,I have a part-time job,35000.00,35000.00,5-9 years
+ENR-8916,35,Male,Hispanic or Latino/Latina/Latinx,0.81,I have a part-time job,13397.00,40000.00,Over 10 years
+ENR-8917,42,Male,Black or African American,0.81,I have a part-time job,20000.00,20000.00,1-3 years
+ENR-8928,23,Male,Black or African American,0.00,I am unemployed,0.00,80000.00,1-3 years
+ENR-8951,29,Male,Asian,0.80,I am unemployed,0.00,77000.00,1-3 years
+ENR-8955,27,Male,Hispanic or Latino/Latina/Latinx,0.80,I have a part-time job,20000.00,192000.00,5-9 years
+ENR-8957,26,Female,Black or African American,0.79,I have a part-time job,40000.00,40000.00,1-3 years
+ENR-8958,22,Male,Middle Eastern,0.79,I have a part-time job,30000.00,30000.00,1-3 years
+ENR-8971,29,Male,Hispanic or Latino/Latina/Latinx,0.81,I have a full-time job,45000.00,80000.00,5-9 years
+ENR-8972,31,Male,White,0.79,I have a full-time job,40000.00,40000.00,Over 10 years
+ENR-8977,22,Male,Black or African American,0.80,I am unemployed,0.00,35000.00,4-5 years
+ENR-8978,34,Male,White,0.80,I have a part-time job,48000.00,48000.00,Over 10 years
+ENR-8981,34,Female,Asian,0.80,I am unemployed,0.00,100000.00,5-9 years
+ENR-8983,41,Male,Black or African American,0.80,I am unemployed,0.00,30000.00,Over 10 years
+ENR-8984,34,Female,Black or African American,0.80,I have a full-time job,25000.00,32000.00,Over 10 years
+ENR-8988,36,Female,Black or African American,0.80,I have a full-time job,0.00,0.00,Over 10 years
+ENR-8990,31,Male,Hispanic or Latino/Latina/Latinx,0.80,I am unemployed,0.00,60000.00,5-9 years
+ENR-8992,41,Female,White,0.80,I am unemployed,0.00,15000.00,Over 10 years
+ENR-8993,30,Female,Hispanic or Latino/Latina/Latinx,0.80,I am unemployed,0.00,10000.00,5-9 years
+ENR-8994,23,Male,Hispanic or Latino/Latina/Latinx,0.80,I am unemployed,0.00,100000.00,4-5 years
+ENR-8995,26,Male,Black or African American,0.80,I am unemployed,0.00,30000.00,4-5 years
+ENR-8996,23,Male,Hispanic or Latino/Latina/Latinx,0.80,I am unemployed,0.00,37000.00,1-3 years
+ENR-8997,35,Female,Asian,0.80,I am unemployed,0.00,2400.00,5-9 years
+ENR-8998,29,Male,Hispanic or Latino/Latina/Latinx,0.80,I am unemployed,0.00,60000.00,5-9 years
+ENR-9004,23,Female,Black or African American,0.81,I have a part-time job,21000.00,21000.00,5-9 years
+ENR-9005,28,Male,Hispanic or Latino/Latina/Latinx,0.81,I have a part-time job,41000.00,41000.00,5-9 years
